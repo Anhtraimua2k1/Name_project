@@ -1,0 +1,9 @@
+// get parameter 
+
+// check email exist
+
+// check password
+
+// set session
+
+// return success
