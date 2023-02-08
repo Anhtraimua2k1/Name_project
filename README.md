@@ -1,2 +1,2 @@
-# Name_project
-Project for SWP391-FPT
+# PRM392-SE1611-Group3-Spring2023
+Project for PRM392-FPT
